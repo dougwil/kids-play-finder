@@ -39,6 +39,12 @@ Este projeto foi desenvolvido como requisito da disciplina *Projeto Integrador d
 
 ---
 
+## Créditos acadêmicos
+
+**Estudante**: Douglas Wilson Lopes Ananias
+**Curso**: Tecnologia da Informação — UFMS
+**Disciplina**: Projeto Integrador de Tecnologia da Informação II
+
 ## 📂 Estrutura do Projeto
 
 ```text
@@ -58,7 +64,3 @@ kids-play-finder/
 ├── vite.config.js       # Configuração do Vite
 └── README.md            # Documentação técnica do repositório
 
-Autor e Créditos Acadêmicos
-**Estudante**: Douglas Wilson Lopes Ananias
-**Curso**: Tecnologia da Informação — UFMS
-**Disciplina**: Projeto Integrador de Tecnologia da Informação II
